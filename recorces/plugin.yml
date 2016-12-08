@@ -1,0 +1,6 @@
+name: WarpBooks
+main: ua.lokha.warpbooks.WarpBooksPlugin
+version: 1
+author: lokha
+commands:
+  tpbookedit: {}
